@@ -37,3 +37,13 @@ Ci dessus les photos de ma page HTML:
 ![Screen 2](adrien/Adrien2.png)
 
 ![Screen 3](adrien/Adrien3.png)
+
+### Page GAMINE KHIYATI Aiman
+
+Ci dessus les photos de ma page HTML:
+
+![Screen 1](screenA1.png)
+
+![Screen 2](screenA2.png)
+
+![Screen 3](screenA3.png)
