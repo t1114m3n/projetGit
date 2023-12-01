@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi Currículum</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         body {
             margin: 0;
@@ -27,13 +27,57 @@
             padding: 2em;
         }
 
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em;
-            width: 100%;
-        }
+        .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+    border-top: 3px solid #0077B5;
+  }
+
+.footer h3 {
+    margin-top: 0; 
+    color: #0077B5;
+    font-size: 2em; 
+    text-transform: uppercase; 
+    font-weight: bold; 
+    letter-spacing: 1px;  
+}
+
+.footer p {
+    font-size: 1.2em; 
+}
+  
+.linkedin-list {
+    list-style: none;
+    padding: 0;
+    display: flex; 
+    justify-content: space-around; 
+}
+    
+.linkedin-list li {
+    border: 2px solid #0077B5; 
+    border-radius: 5px;
+    margin: 10px;
+}
+  
+.linkedin-list li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #0077B5; 
+}
+  
+.linkedin-list li a:hover {
+    background-color: #0077B5;
+    color: #fff;
+}
+  
+.footer p {
+    margin: 35px 0 0;
+    font-style: italic; 
+    color: rgb(192, 47, 47); 
+}
 
         .section-container {
             display: flex;
@@ -81,12 +125,31 @@
 </head>
 <body>
     <header>
-        <img src="logo.jpg" alt="Logo" onclick="window.location.href='index.html';" width="50">
         <nav>
-            <a href="subpagina1.html">Enzo</a>
-            <a href="subpagina2.html">Enzo</a>
-            <a href="subpagina3.html">Adrien</a>
-            <a href="subpagina4.html">Ayman</a>
+            
+            <ul class="menu">
+                <a href="index.html">
+                    <img src="logo.jpg" alt="Logo" width="60" style="display: block;">
+                </a>  
+                <li>
+                    <a href="projet.html">Enzo</a>
+                </li>
+                <li>
+                    <a href="subpagina2.html">Enzo</a>
+                </li> 
+                <li>
+                    <a href="subpagina3.html">Adrien</a>
+
+                </li>
+                <li>
+                    <a href="alberto.html">Aiman</a>
+
+                </li>
+                <li>
+                    <a href="alberto.html">Alberto</a>
+
+                </li>
+            </ul>
         </nav>
     </header>
 
