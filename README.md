@@ -13,7 +13,7 @@
 
 ### Page Alberto Meléndez García 
 
-Ci dessus les photos de ma page HTML:
+Ci dessous les photos de ma page HTML:
 
 ![Screen 1](albertoHTML1.png)
 
@@ -30,7 +30,7 @@ C'est une alternative auto-gérée aux services de stockage en nuage plus import
 
 ### Page Adrien Perdoux
 
-Ci dessus les photos de ma page HTML:
+Ci dessous les photos de ma page HTML:
 
 ![Screen 1](adrien/Adrien1.png)
 
@@ -44,7 +44,7 @@ Dans ce projet on y retrouve plusieur lociciels incontournable connus de tous le
 
 ### Page GAMINE KHIYATI Aiman
 
-Ci dessus les photos de ma page HTML:
+Ci dessous les photos de ma page HTML:
 
 ![Screen 1](screenA1.png)
 
