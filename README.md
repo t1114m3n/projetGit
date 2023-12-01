@@ -32,8 +32,8 @@ C'est une alternative auto-gérée aux services de stockage en nuage plus import
 
 Ci dessus les photos de ma page HTML:
 
-![Screen 1](adrien/adrien1.png)
+![Screen 1](adrien/Adrien1.png)
 
-![Screen 2](adrien/adrien2.png)
+![Screen 2](adrien/Adrien2.png)
 
-![Screen 3](adrien/adrien3.png)
+![Screen 3](adrien/Adrien3.png)
