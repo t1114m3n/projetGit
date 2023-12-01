@@ -6,125 +6,10 @@
     <title>Mi Currículum</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em;
-        }
-
-        main {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 2em;
-        }
-
-        .footer {
-    background-color: #333;
-    color: #fff;
-    padding: 50px;
-    text-align: center;
-    border-top: 3px solid #0077B5;
-  }
-
-.footer h3 {
-    margin-top: 0; 
-    color: #0077B5;
-    font-size: 2em; 
-    text-transform: uppercase; 
-    font-weight: bold; 
-    letter-spacing: 1px;  
-}
-
-.footer p {
-    font-size: 1.2em; 
-}
-  
-.linkedin-list {
-    list-style: none;
-    padding: 0;
-    display: flex; 
-    justify-content: space-around; 
-}
-    
-.linkedin-list li {
-    border: 2px solid #0077B5; 
-    border-radius: 5px;
-    margin: 10px;
-}
-  
-.linkedin-list li a {
-    display: block;
-    padding: 10px;
-    text-decoration: none;
-    color: #0077B5; 
-}
-  
-.linkedin-list li a:hover {
-    background-color: #0077B5;
-    color: #fff;
-}
-  
-.footer p {
-    margin: 35px 0 0;
-    font-style: italic; 
-    color: rgb(192, 47, 47); 
-}
-
-        .section-container {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-around;
-        }
-
-        .section {
-            flex: 1;
-            max-width: 600px; 
-            padding: 1em;
-            border: 1px solid #ccc;
-            margin: 2em;
-        }
-
-        .subtitle {
-            display: flex;
-            flex-direction: row;
-        }
-
-        .subtitle img {
-            width: 100px; 
-            border-radius: 50%;
-            margin: 1em;
-            border: 2px solid black;
-            
-        }
-
-        .text {
-            width: 50%;
-            margin: 1em;
-            border: 1px solid black;
-            text-align: center;
-            padding: 10px;
-            border-radius: 20%; 
-        }
-
-        .open_source {
-            background-color: grey;
-            padding: 1em;;
-        }
-
-
-    </style>
 </head>
+
 <body>
-    <header>
+    <header class="alberto-header">
         <nav>
             
             <ul class="menu">
@@ -132,13 +17,13 @@
                     <img src="logo.jpg" alt="Logo" width="60" style="display: block;">
                 </a>  
                 <li>
-                    <a href="projet.html">Enzo</a>
+                    <a href="enzo.html">EnzoP</a>
                 </li>
                 <li>
                     <a href="subpagina2.html">Enzo</a>
                 </li> 
                 <li>
-                    <a href="subpagina3.html">Adrien</a>
+                    <a href="adrien/adrien.html">Adrien</a>
 
                 </li>
                 <li>
@@ -153,22 +38,22 @@
         </nav>
     </header>
 
-    <main>
+    <main class="alberto-main">
         <h1>Alberto Meléndez García</h1>
 
-        <div class="subtitle">
-            <h2 class="text">En recherche active de stage pour mon deuxième année de bachelor</h2>
+        <div class="alberto-subtitle">
+            <h2 class="alberto-text">En recherche active de stage pour mon deuxième année de bachelor</h2>
             <img src="Foto Alberto-hi-res copia.jpg" alt="Tu Foto" >
-            <h2 class="text">Étudiant de l'EFREI en Cybersécurité et Ethical Hacking</h2>
+            <h2 class="alberto-text">Étudiant de l'EFREI en Cybersécurité et Ethical Hacking</h2>
         </div>
 
-        <div class="section-container">
-            <div class="section">
-                <div class="upper">
+        <div class="alberto-section-container">
+            <div class="alberto-section">
+                <div class="alberto-upper">
                     <h2>Compétences</h2>
                     <p>Mis competencias</p>
                 </div>
-                <div class="lower">
+                <div class="alberto-lower">
                     <i class="fa fa-language"></i>
                     <i class="fa fa-cogs"></i>
                     <ul>
@@ -213,7 +98,7 @@
                 </div>
             </div>
 
-            <div class="section" >
+            <div class="alberto-section" >
                 <h2>Education et experience proffesionnelle</h2>
                 <i class="fa fa-university"></i> 
                 <i class="fa fa-laptop"></i> 
@@ -237,7 +122,7 @@
                 </ul>
             </div>
 
-            <div class="section" >
+            <div class="alberto-section" >
                 <h2>Information personelle</h2>
                 <i class="fa fa-plane"></i> 
                 <i class="fa fa-car"></i> 
@@ -282,7 +167,7 @@
                 </ul>
             </div>
         </div>
-        <div class="open_source">
+        <div class="alberto-open_source">
             <h2>Nextcloud</h2>
             <p>Nextcloud est un logiciel libre de site d'hébergement de fichiers et une plateforme de collaboration. Accessible via n'importe quel navigateur web, ou des clients spécialisés, son architecture ouverte a permis de voir ses fonctionnalités s'étendre depuis ses origines. Il propose de nombreux services comme:</p>
             <ul>
