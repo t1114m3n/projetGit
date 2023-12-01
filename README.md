@@ -38,6 +38,10 @@ Ci dessus les photos de ma page HTML:
 
 ![Screen 3](adrien/Adrien3.png)
 
+J'ai choisi le projet GNU car sur un système GNU on a la liberté d'exécuter le logiciel comme on le souhaite, de comprendre comment il fonctionne en examinant le code source ou bien même de le modifier selon nos besoins.
+Ce projet à été créer par Richard Stallman aussi fondateur de la free softaware fondation.
+Dans ce projet on y retrouve plusieur lociciels incontournable connus de tous les utilisateurs de GNU/Linux comme par exemple gcc qui est un compilateur, Emacs qui est un editeur de text, gdb qui est un debugger ou bien Gimp qui permet de faire des créations graphique ou de retoucher des images.
+
 ### Page GAMINE KHIYATI Aiman
 
 Ci dessus les photos de ma page HTML:
@@ -65,3 +69,4 @@ Ci dessus les photos de ma page HTML:
 ![Screen 6](enzop6.png)
 
 - La Plateforme de Capture et d'Analyse de Paquets Réseau est un projet visant à développer un système capable de surveiller et analyser le trafic réseau en temps réel. Les fonctionnalités clés incluent la capture de paquets, le stockage de ces données pour une analyse ultérieure, l'analyse en temps réel pour détecter les anomalies ou les attaques, le filtrage et le requêtage pour extraire des informations spécifiques, ainsi que la présentation visuelle des résultats à travers des graphiques ou des tableaux de bord. Ce type de plateforme est essentiel pour la gestion efficace des réseaux, la détection d'incidents de sécurité, le dépannage et l'optimisation des performances.
+
