@@ -164,4 +164,60 @@ body {
     color: rgb(192, 47, 47); 
 }
   
+.groupe-header4 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.groupe-header4 nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.groupe-header nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.groupe-header4 nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Styles pour le groupe de contenu général */
+.groupe-contenu4 {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+/* Styles pour le groupe du projet Git */
+.groupe-projet4 {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.groupe-projet4 h2 {
+    color: #333;
+}
+
+.groupe-projet4 p {
+    color: #555;
+}
+
+/* Styles pour le groupe du pied de page */
+.groupe-footer4 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
   
