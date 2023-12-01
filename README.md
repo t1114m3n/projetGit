@@ -19,7 +19,7 @@ Ci dessus les photos de ma page HTML:
 
 ![Screen 2](albertoHTML2.png)
 
-![Screen 3](albertoHTML2.png)
+![Screen 3](albertoHTML3.png)
 
 Moi j'ai choisi Nextcloud: Est une plateforme de stockage open source qui permets de stocker, synchroniser et partager fichiers. Sur Nexcloud c'est possible d'avoir une propre instance de serveur, ce qui signifie un contrôle total sur les données et sur la confidentialité.
 
