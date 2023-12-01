@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center; 
+}
+
+.header {                           
+    background-color: #0d47a1; 
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.header p {
+    margin: 20px;
+}
+
+.title {
+    margin: 0;
+    font-size: 2em;
+}
+
+.subtitle {
+    margin-top: 5px;
+    font-size: 1.2em;
+}
+
+.content {
+    background-color: #212121; 
+    padding: 20px;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.section-title {
+    color: #03a9f4; 
+    margin-bottom: 27px;
+}
+
+.section-text {
+    color: #ccc;
+    margin-bottom: 40px;
+    line-height: 1.5;
+}
+
+a {
+    color: #03a9f4; 
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.linkedin-list a {
+    color: #0077B5;
+}
+
+.linkedin-list a:hover {
+    text-decoration: none; 
+}
+
+.linkedin-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.linkedin-list li {
+    border: 2px solid #0077B5;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.linkedin-list li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: #0077B5;
+    transition: background-color 0.3s ease; 
+}
+
+.linkedin-list li a:hover {
+    background-color: #0077B5;
+    color: #fff; 
+}
+
+.section-linkedin h2 {
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.logo {
+    max-width: 9%; 
+}
+
+.logo-title {
+    color: #03a9f4;
+    margin-bottom: 27px;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
